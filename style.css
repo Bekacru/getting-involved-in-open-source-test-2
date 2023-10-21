@@ -1,0 +1,38 @@
+body {
+  background: url(./assets/noise-light.png);
+  background-color: #474efb;
+  color: white;
+  font-family: "Marlin Soft Basic";
+}
+
+.container {
+  max-width: 44rem;
+  margin: auto;
+}
+
+p {
+  line-height: 20px;
+}
+
+header {
+  position: sticky;
+  top: 0px;
+  padding: 2px;
+  border-bottom: 2px solid whitesmoke;
+}
+
+a {
+  color: whitesmoke;
+}
+
+code {
+  color: #ffbc8f;
+  border-left: 2px solid;
+  border-color: #ee8b0a;
+  padding: 0px 4px;
+  font-family: "Marlin Soft Basic";
+  font-size: 14px;
+  background-color: #480a60;
+  padding: 8px;
+  line-height: 1.4;
+}
