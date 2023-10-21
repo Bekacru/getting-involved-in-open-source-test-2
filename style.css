@@ -19,6 +19,9 @@ header {
   top: 0px;
   padding: 2px;
   border-bottom: 2px solid whitesmoke;
+  display: flex;
+  align-items: center;
+  gap: 20px;
 }
 
 a {
