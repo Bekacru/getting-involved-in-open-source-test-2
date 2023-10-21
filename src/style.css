@@ -1,8 +1,8 @@
 body {
-  background: url(./assets/noise-light.png);
+  background: url(../assets/noise-light.png);
   background-color: #474efb;
   color: white;
-  font-family: "Marlin Soft Basic";
+  font-family: "Marlin Soft Basic", sans-serif;
 }
 
 .container {
@@ -38,4 +38,9 @@ code {
   background-color: #480a60;
   padding: 8px;
   line-height: 1.4;
+  max-width: max-content;
+}
+
+code .comment {
+  color: rgb(171, 169, 169);
 }
