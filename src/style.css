@@ -1,8 +1,13 @@
+@font-face {
+  font-family: "Marlin Soft";
+  src: url(../assets/MarlinSoftBasic-Regular.otf);
+}
+
 body {
   background: url(../assets/noise-light.png);
   background-color: #474efb;
   color: white;
-  font-family: "Marlin Soft Basic", sans-serif;
+  font-family: "Marlin Soft", sans-serif;
 }
 
 .container {
